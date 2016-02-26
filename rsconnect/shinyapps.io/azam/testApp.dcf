@@ -1,0 +1,8 @@
+name: testApp
+account: azam
+server: shinyapps.io
+bundleId: 381009
+url: https://azam.shinyapps.io/testApp/
+when: 1456457810.56928
+asMultiple: FALSE
+asStatic: FALSE

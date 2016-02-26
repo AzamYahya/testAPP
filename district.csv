@@ -1,0 +1,73 @@
+district,factor,gender,level,percentage
+larkana,class,Boys,Primary,47.76444444
+larkana,class,Girls,Primary,44.84166667
+larkana,class,Mixed,Primary,50.96911608
+larkana,class,Boys,Middle/Elementary,42.09803922
+larkana,class,Girls,Middle/Elementary,43.61643836
+larkana,class,Mixed,Middle/Elementary,43.70779221
+larkana,class,Boys,Secondary,95.41891892
+larkana,class,Girls,Secondary,84.74358974
+larkana,class,Mixed,Secondary,85.40414508
+larkana,class,Boys,Higher Secondary,89.16513761
+larkana,class,Girls,Higher Secondary,108.2795699
+larkana,class,Mixed,Higher Secondary,115.2093023
+larkana,school,Boys,Primary,120.0782123
+larkana,school,Girls,Primary,130.6067961
+larkana,school,Mixed,Primary,144.3740573
+larkana,school,Boys,Middle/Elementary,178.9166667
+larkana,school,Girls,Middle/Elementary,132.6666667
+larkana,school,Mixed,Middle/Elementary,186.9722222
+larkana,school,Boys,Secondary,941.4666667
+larkana,school,Girls,Secondary,661
+larkana,school,Mixed,Secondary,633.9615385
+larkana,school,Boys,Higher Secondary,2429.75
+larkana,school,Girls,Higher Secondary,1678.333333
+larkana,school,Mixed,Higher Secondary,1238.5
+larkana,teacher,Boys,Primary,33.9022082
+larkana,teacher,Girls,Primary,24.86598891
+larkana,teacher,Mixed,Primary,35.57041992
+larkana,teacher,Boys,Middle/Elementary,30.67142857
+larkana,teacher,Girls,Middle/Elementary,26.75630252
+larkana,teacher,Mixed,Middle/Elementary,37.1878453
+larkana,teacher,Boys,Secondary,30.90153173
+larkana,teacher,Girls,Secondary,34.91197183
+larkana,teacher,Mixed,Secondary,37.04044944
+larkana,teacher,Boys,Higher Secondary,30.46708464
+larkana,teacher,Girls,Higher Secondary,47.95238095
+larkana,teacher,Mixed,Higher Secondary,46.73584906
+thatta,class,Boys,Primary,25.1791958
+thatta,class,Girls,Primary,28.71573604
+thatta,class,Mixed,Primary,32.78858025
+thatta,class,Boys,Middle/Elementary,14.56363636
+thatta,class,Girls,Middle/Elementary,16.046875
+thatta,class,Mixed,Middle/Elementary,24.92592593
+thatta,class,Boys,Secondary,37.93076923
+thatta,class,Girls,Secondary,30.3625
+thatta,class,Mixed,Secondary,15.4
+thatta,class,Boys,Higher Secondary,62.07692308
+thatta,class,Girls,Higher Secondary,41.7
+thatta,class,Mixed,Higher Secondary,85.65217391
+thatta,school,Boys,Primary,37.07207207
+thatta,school,Girls,Primary,62.16483516
+thatta,school,Mixed,Primary,44.08091286
+thatta,school,Boys,Middle/Elementary,42.15789474
+thatta,school,Girls,Middle/Elementary,57.05555556
+thatta,school,Mixed,Middle/Elementary,89.73333333
+thatta,school,Boys,Secondary,234.8095238
+thatta,school,Girls,Secondary,202.4166667
+thatta,school,Mixed,Secondary,77
+thatta,school,Boys,Higher Secondary,538
+thatta,school,Girls,Higher Secondary,417
+thatta,school,Mixed,Higher Secondary,656.6666667
+thatta,teacher,Boys,Primary,31.20801733
+thatta,teacher,Girls,Primary,27.00238663
+thatta,teacher,Mixed,Primary,30.88226744
+thatta,teacher,Boys,Middle/Elementary,14.05263158
+thatta,teacher,Girls,Middle/Elementary,14.26388889
+thatta,teacher,Mixed,Middle/Elementary,16.02380952
+thatta,teacher,Boys,Secondary,17.12152778
+thatta,teacher,Girls,Secondary,14.45833333
+thatta,teacher,Mixed,Secondary,10.40540541
+thatta,teacher,Boys,Higher Secondary,19.92592593
+thatta,teacher,Girls,Higher Secondary,18.95454545
+thatta,teacher,Mixed,Higher Secondary,37.88461538
